@@ -1,10 +1,3 @@
 # Account Service
-Сервис отвечает за ведение счетов клиентов
+Service for manage accounts of users/projects
 
-## Сущности
-* Счёт
-* Баланс
-* Аудит баланса
-* Запрос
-
-## Бизнес процессы
