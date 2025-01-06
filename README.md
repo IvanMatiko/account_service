@@ -29,7 +29,7 @@ Account Service is a backend application responsible for managing user accounts 
 
 3. Run the application:
    ```bash
- ./gradlew bootRun
+   ./gradlew bootRun
 
  # API Endpoints
  
